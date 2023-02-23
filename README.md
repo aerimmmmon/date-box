@@ -19,7 +19,7 @@
 
 Example gist: https://gist.github.com/kf-liu/7de2a55824ec5e8a78ebc3c57e4ca82b
 
-## Setup
+## Setup 
 ### Prep work
 1. Create a new public GitHub Gist (https://gist.github.com)
 2. Create a token with the `gist` scope and **copy it**. (https://github.com/settings/tokens/new)
